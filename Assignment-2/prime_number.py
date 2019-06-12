@@ -1,4 +1,4 @@
-# Check for prime number
+# Check prime number
 
 number = int(input('Enter a number to check whether it is prime or not: '))
 
